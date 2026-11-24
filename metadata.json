@@ -1,0 +1,6 @@
+{
+  "name": "INVICTUS Barbearia",
+  "description": "INVICTUS Barbearia em Goiás - GO. Barba e tesoura: arte e tradição. Agendamento online, galeria e atendimento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
